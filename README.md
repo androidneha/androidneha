@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=androidneha" alt="androidneha" /> </p>
 
-- 🎁 Got Chance to work with **Accenture & Wipro** but didn't join. Why am I so fucked up?
+- 🎁 Got Chance to work with **Accenture & Wipro** but didn't join.
 - 🔭 I'm currently working on **tech & Myself(PD) obviously.**
 - 🌱 I'm currently learning **Various Javascript Technology.**
 - 👯 I'm looking to collaborate on **where I could help.**
